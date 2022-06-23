@@ -2,7 +2,8 @@
 
 namespace Loop_Ex_2
 {
-    //Calculer le factoriel d'un nombre entre au clavier
+    //Calculer la factorielle d'un nombre entre au clavier
+    // corriger integrer un long et verifier si le nombre est inferieur a 0 et superieur au nombre dont la factorielle depassera le long
     internal class Program
     {
         static void Main(string[] args)
@@ -16,20 +17,13 @@ namespace Loop_Ex_2
                 input = Console.ReadLine();
                 message = "Entrez un nombre correct...";
             } while (!int.TryParse(input, out nb));
- 
-            int n1 = 1;
-            int n2 = 1;
-            string suite = "";
+
+            int n = 1;
             for (int i = nb; i > 0; i--)
             {
-                int n = n1 * i;
-                n1 = i;
-                n2 = n;
-                suite = suite + $"{n}";
-                
+                n = n * i;
             }
-            Console.WriteLine(suite);
-            //Console.WriteLine($"Le factoriel de {nb} est {factoriel}");
+            Console.WriteLine($"La factorielle de {nb} est {n}");
         }
     }
 }

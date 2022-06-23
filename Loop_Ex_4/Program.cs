@@ -13,6 +13,7 @@ namespace Loop_Ex_4
                 {
                     Console.WriteLine($"{i} x {n} = {i*n}; ");
                 }
+                Console.WriteLine("---------------");
             }
         }
     }

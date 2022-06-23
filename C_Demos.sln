@@ -33,11 +33,15 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Demo_Substring", "Demo_Subs
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Demo_For_parse", "Demo_For_parse\Demo_For_parse.csproj", "{AAA604CD-BCBE-4478-8845-3E416FF2A62F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Loop_Ex_4", "Loop_Ex_4\Loop_Ex_4.csproj", "{1EC8D053-E660-4584-A15E-C858D30186FC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Loop_Ex_4", "Loop_Ex_4\Loop_Ex_4.csproj", "{1EC8D053-E660-4584-A15E-C858D30186FC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Loop_Ex_5", "Loop_Ex_5\Loop_Ex_5.csproj", "{9EB01F31-79E8-4951-807A-1B49D054E195}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Loop_Ex_5", "Loop_Ex_5\Loop_Ex_5.csproj", "{9EB01F31-79E8-4951-807A-1B49D054E195}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Loop_Ex_2", "Loop_Ex_2\Loop_Ex_2.csproj", "{1DEF81F0-1E6D-4234-8687-FF0F3ACF7668}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Loop_Ex_2", "Loop_Ex_2\Loop_Ex_2.csproj", "{1DEF81F0-1E6D-4234-8687-FF0F3ACF7668}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Loop_Ex_1", "Loop_Ex_1\Loop_Ex_1.csproj", "{16D329F2-0C16-4E53-A5E4-F66D4E7FFB37}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Loop_Ex_3", "Loop_Ex_3\Loop_Ex_3.csproj", "{551F80F6-21F5-4A8C-A4B5-9B178C7F8FFE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -117,6 +121,14 @@ Global
 		{1DEF81F0-1E6D-4234-8687-FF0F3ACF7668}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1DEF81F0-1E6D-4234-8687-FF0F3ACF7668}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1DEF81F0-1E6D-4234-8687-FF0F3ACF7668}.Release|Any CPU.Build.0 = Release|Any CPU
+		{16D329F2-0C16-4E53-A5E4-F66D4E7FFB37}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16D329F2-0C16-4E53-A5E4-F66D4E7FFB37}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16D329F2-0C16-4E53-A5E4-F66D4E7FFB37}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16D329F2-0C16-4E53-A5E4-F66D4E7FFB37}.Release|Any CPU.Build.0 = Release|Any CPU
+		{551F80F6-21F5-4A8C-A4B5-9B178C7F8FFE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{551F80F6-21F5-4A8C-A4B5-9B178C7F8FFE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{551F80F6-21F5-4A8C-A4B5-9B178C7F8FFE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{551F80F6-21F5-4A8C-A4B5-9B178C7F8FFE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

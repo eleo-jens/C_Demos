@@ -7,7 +7,8 @@ namespace Loop_Ex_5
     {
         static void Main(string[] args)
         {
-            for (double i = 0.0; i <= 20.0; i = i + 0.1)
+            //mettre m decimal et non double sinon ca donne 5,151555465466 de longs chiffres apres la virgule
+            for (decimal i = 0m; i <= 20m; i = i + 0.1m)
             {
                 Console.WriteLine(i);
             }
