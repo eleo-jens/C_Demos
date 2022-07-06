@@ -23,7 +23,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Demo_Loop", "Demo_For_parse
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Demo_Tableaux", "Demo_Tableaux\Demo_Tableaux.csproj", "{7748A9A8-3F14-4756-8D52-CB0334A60CE3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Demo_Structures", "Demo_Structures\Demo_Structures.csproj", "{19103B62-1EFA-422B-B064-643F3F62C329}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Demo_Structures", "Demo_Structures\Demo_Structures.csproj", "{19103B62-1EFA-422B-B064-643F3F62C329}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Demo_Methode", "Demo_Methode\Demo_Methode.csproj", "{EC5EC785-D04D-4ED8-96EF-E72C99B57B05}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Demo_Recursivite", "Demo_Recursivite\Demo_Recursivite.csproj", "{AEC24684-14A4-4422-9E48-2ED1F4728BB3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -75,6 +79,14 @@ Global
 		{19103B62-1EFA-422B-B064-643F3F62C329}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{19103B62-1EFA-422B-B064-643F3F62C329}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{19103B62-1EFA-422B-B064-643F3F62C329}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EC5EC785-D04D-4ED8-96EF-E72C99B57B05}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC5EC785-D04D-4ED8-96EF-E72C99B57B05}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC5EC785-D04D-4ED8-96EF-E72C99B57B05}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC5EC785-D04D-4ED8-96EF-E72C99B57B05}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AEC24684-14A4-4422-9E48-2ED1F4728BB3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AEC24684-14A4-4422-9E48-2ED1F4728BB3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AEC24684-14A4-4422-9E48-2ED1F4728BB3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AEC24684-14A4-4422-9E48-2ED1F4728BB3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
