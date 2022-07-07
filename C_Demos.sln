@@ -25,9 +25,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Demo_Tableaux", "Demo_Table
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Demo_Structures", "Demo_Structures\Demo_Structures.csproj", "{19103B62-1EFA-422B-B064-643F3F62C329}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Demo_Methode", "Demo_Methode\Demo_Methode.csproj", "{EC5EC785-D04D-4ED8-96EF-E72C99B57B05}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Demo_Methode", "Demo_Methode\Demo_Methode.csproj", "{EC5EC785-D04D-4ED8-96EF-E72C99B57B05}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Demo_Recursivite", "Demo_Recursivite\Demo_Recursivite.csproj", "{AEC24684-14A4-4422-9E48-2ED1F4728BB3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Demo_Recursivite", "Demo_Recursivite\Demo_Recursivite.csproj", "{AEC24684-14A4-4422-9E48-2ED1F4728BB3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Demo_Enumeration", "Demo_Enumeration\Demo_Enumeration.csproj", "{F6FC45DC-A650-4E8E-B1E9-F7A4B61A6ED7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -87,6 +89,10 @@ Global
 		{AEC24684-14A4-4422-9E48-2ED1F4728BB3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AEC24684-14A4-4422-9E48-2ED1F4728BB3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AEC24684-14A4-4422-9E48-2ED1F4728BB3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F6FC45DC-A650-4E8E-B1E9-F7A4B61A6ED7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F6FC45DC-A650-4E8E-B1E9-F7A4B61A6ED7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F6FC45DC-A650-4E8E-B1E9-F7A4B61A6ED7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F6FC45DC-A650-4E8E-B1E9-F7A4B61A6ED7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
